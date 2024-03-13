@@ -5,7 +5,7 @@ Repositório do Game do Número Secreto que foi criado durante o curso de Lógic
 Site do Jogo do Número Secreto: [jogo-smoky-kappa.vercel.app
 ](https://jogo-smoky-kappa.vercel.app/)
 
-([https://raw.githubusercontent.com/piresand/jogo-do-numero-secreto/main/img/jogo-do-numero-secreto.jpg)
+(https://raw.githubusercontent.com/piresand/jogo-do-numero-secreto/main/img/jogo-do-numero-secreto.jpg)
 
 
 ### Connect with me:
