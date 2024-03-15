@@ -1,6 +1,6 @@
 # Jogo do Número Secreto 
 
-<h2>Sobre</h2>
+<h2>🖥️ Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
 Site do Jogo do Número Secreto: [jogo-smoky-kappa.vercel.app
@@ -8,7 +8,7 @@ Site do Jogo do Número Secreto: [jogo-smoky-kappa.vercel.app
 
 <p align="center"><img src="https://raw.githubusercontent.com/piresand/jogo-do-numero-secreto/main/img/jogo.jpg" /></p>
 
-## Tecnologias
+##🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
